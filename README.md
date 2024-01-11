@@ -1,4 +1,4 @@
-# flutter_application_1
+# flutter ePub Application
 
 A new Flutter project.
 
